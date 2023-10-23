@@ -2,4 +2,11 @@
 
 localhost:4000/weather?kota=yogyakarta  
 
-Kota nya bisa diganti dengan bebas , ya yang pasti di indonesia lah
+Jika ingin menggunakan nya , tinggal ubah Nama kota contoh : 
+
+localhost:4000/weather?kota=medan
+
+localhost:4000/weather?kota=palembang
+
+localhost:4000/weather?kota=padang
+
